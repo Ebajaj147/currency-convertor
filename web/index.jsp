@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Dec 15, 2011, 9:56:40 PM
-    Author     : pakallis
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
